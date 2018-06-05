@@ -14,6 +14,8 @@ public class Main {
 		SpringApplication.run(Main.class, args);
 	}
 	
+	//daco nove
+	
 	@Bean
 	public CommandLineRunner runner() {
 		return args ->{
